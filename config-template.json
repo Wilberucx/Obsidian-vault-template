@@ -1,0 +1,50 @@
+{
+  "base_vault_path": "C:\\Users\\YourUsername\\Documents\\Obsidian Vaults",
+  "name_pattern": "Vault-{year}",
+
+  "copy_complete": [
+    ".obsidian",
+    "Templates",
+    "Attachments",
+    "Resources"
+  ],
+
+  "copy_files": [
+    "README.md",
+    "Index.md",
+    "Projects/Projects.md",
+    "Areas/Areas.md",
+    "Resources/Resources.md"
+  ],
+
+  "create_empty_folders": [
+    "Daily Notes",
+    "Weekly Reviews", 
+    "Monthly Reviews",
+    "Projects",
+    "Areas",
+    "Archive",
+    "Inbox",
+    "Templates",
+    "Attachments",
+    "Resources"
+  ],
+
+  "exclude_from_obsidian": [
+    ".obsidian/workspace.json",
+    ".obsidian/workspace-mobile.json",
+    ".obsidian/cache"
+  ],
+
+  "create_base_files": {
+    "Welcome-{year}.md": "# Welcome to {year}\n\nThis vault was created on {date}.\n\n## Quick Start\n\n- [ ] Review and customize templates\n- [ ] Set up daily note template\n- [ ] Configure plugins\n- [ ] Import existing notes if needed\n\n## Goals for {year}\n\n- [ ] Goal 1\n- [ ] Goal 2\n- [ ] Goal 3\n\n---\n*Vault started: {date}*",
+    "Index.md": "# {year} Vault Index\n\nMain navigation for the {year} vault.\n\n## Quick Links\n\n- [[Welcome-{year}]] - Getting started guide\n- [[Daily Notes]] - Daily journal entries\n- [[Projects]] - Active projects\n- [[Areas]] - Areas of responsibility\n\n## Recent Activity\n\n<!-- This section can be populated with recent notes -->\n\n---\n*Created: {date}*"
+  },
+
+  "options": {
+    "create_git_repo": true,
+    "open_new_vault": false,
+    "backup_before_create": true,
+    "log_operations": true
+  }
+}

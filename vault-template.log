@@ -1,0 +1,209 @@
+2025-10-03 13:22:01 [INFO] Current year detected: 2025
+2025-10-03 13:22:01 [INFO] Target year: 2026
+2025-10-03 13:22:01 [INFO] Source vault: C:\Users\canto\ObsidianVaults\Vault-2025
+2025-10-03 13:22:01 [INFO] Target vault: C:\Users\canto\ObsidianVaults\Vault-2026
+2025-10-03 13:22:01 [INFO] Creating target directory...
+2025-10-03 13:22:01 [INFO] Copying complete folders...
+2025-10-03 13:22:01 [INFO]   Copying: .obsidian
+2025-10-03 13:22:13 [INFO]   Copying: 00 - Template
+2025-10-03 13:22:14 [INFO]   Copying: 03 - Resources/Assets
+2025-10-03 13:22:18 [INFO]   Copying: 03 - Resources/Bases
+2025-10-03 13:22:19 [INFO]   Copying: 03 - Resources/cover books
+2025-10-03 13:22:19 [INFO] Removing excluded files...
+2025-10-03 13:22:19 [INFO]   Removing: .obsidian/workspace.json
+2025-10-03 13:22:19 [INFO]   Removing: .obsidian/workspace-mobile.json
+2025-10-03 13:22:19 [INFO] Copying specific files...
+2025-10-03 13:22:19 [INFO]   Copying: 01 - Projects/01 - Projects.md
+2025-10-03 13:22:19 [INFO]   Copying: 02 - Areas/Personal.md
+2025-10-03 13:22:19 [INFO]   Copying: 02 - Areas/Profesional.md
+2025-10-03 13:22:20 [INFO]   Copying: 02 - Areas/Relaciones.md
+2025-10-03 13:22:20 [INFO]   Copying: 03 - Resources/Bible's Book/Bible's Book.md
+2025-10-03 13:22:20 [INFO]   Copying: 03 - Resources/Books/Books.md
+2025-10-03 13:22:20 [INFO]   Copying: 03 - Resources/Controles/Controles.md
+2025-10-03 13:22:20 [INFO]   Copying: 03 - Resources/Courses/Courses.md
+2025-10-03 13:22:20 [INFO]   Copying: 03 - Resources/Email/Email.md
+2025-10-03 13:22:20 [INFO]   Copying: 03 - Resources/People/People.md
+2025-10-03 13:22:20 [INFO]   Copying: 03 - Resources/Place/Place.md
+2025-10-03 13:22:20 [INFO]   Copying: 03 - Resources/Podcast/Podcast.md
+2025-10-03 13:22:20 [INFO]   Copying: 03 - Resources/Recetas/Recetas.md
+2025-10-03 13:22:20 [INFO]   Copying: 03 - Resources/Supermarket List/Supermarket List.md
+2025-10-03 13:22:20 [INFO]   Copying: 03 - Resources/Videos/Videos.md
+2025-10-03 13:22:20 [INFO]   Copying: 03 - Resources/Vocabulary/Vocabulary.md
+2025-10-03 13:22:20 [INFO]   Copying: 03 - Resources/Web Links/Web Links.md
+2025-10-03 13:22:20 [INFO]   Copying: 04 - Permanent/04 - Permanent.md
+2025-10-03 13:22:20 [INFO]   Copying: 05 - Captura/05 - Captura.md
+2025-10-03 13:22:20 [INFO] Creating folder structure...
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Canvas
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Controles/Compras en super
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Controles/Control de Periodo de Angely
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Controles/Control de Tanque de Gas
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Controles/Control de Vacunas y cuidado de Max
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Controles/Workout
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Draw/Scripts/Downloaded
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Excel
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/html
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/PDF
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Supermarket List/01 - Productos de limpieza
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Supermarket List/02 - Granos, aceite y especias
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Supermarket List/03 - Carnes
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Supermarket List/04 - Frutas y verduras
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Supermarket List/05 - Lácteos y panadería
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Supermarket List/06 - Pastas, salsas y pastelería
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Supermarket List/07 - Otros (Cerca de la caja)
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Supermarket List/08 - No Category
+2025-10-03 13:22:20 [INFO]   Creating: 03 - Resources/Supermarket List/99 - Entrada
+2025-10-03 13:22:20 [INFO]   Creating: 06 - Daily/01 - Diario
+2025-10-03 13:22:20 [INFO]   Creating: 06 - Daily/02 - Semanal
+2025-10-03 13:22:20 [INFO]   Creating: 06 - Daily/03 - Trimestral
+2025-10-03 13:22:20 [INFO]   Creating: 06 - Daily/04 - Mensual
+2025-10-03 13:22:20 [INFO]   Creating: 06 - Daily/05 - Anual
+2025-10-03 13:22:20 [INFO] Creating base files...
+2025-10-03 13:22:20 [INFO]   Creating: 06 - Daily/05 - Anual/{year}.md
+2025-10-03 13:22:20 [SUCCESS] =====================================
+2025-10-03 13:22:20 [SUCCESS] Vault created successfully!
+2025-10-03 13:22:20 [SUCCESS] =====================================
+2025-10-03 13:22:20 [INFO] Location: C:\Users\canto\ObsidianVaults\Vault-2026
+2025-10-03 13:22:20 [INFO] Year: 2026
+2025-10-03 13:22:20 [INFO] Opening vault in Obsidian...
+2025-10-03 13:22:20 [SUCCESS] Process completed.
+2025-10-03 13:44:59 [INFO] Current year detected: 2025
+2025-10-03 13:44:59 [INFO] Target year: 2026
+2025-10-03 13:44:59 [INFO] Source vault: C:\Users\canto\ObsidianVaults\Vault-2025
+2025-10-03 13:44:59 [INFO] Target vault: C:\Users\canto\ObsidianVaults\Vault-2026
+2025-10-03 13:44:59 [INFO] Creating target directory...
+2025-10-03 13:44:59 [INFO] Copying complete folders...
+2025-10-03 13:44:59 [INFO]   Copying: .obsidian
+2025-10-03 13:45:01 [INFO]   Copying: 00 - Template
+2025-10-03 13:45:01 [INFO]   Copying: 03 - Resources/Assets
+2025-10-03 13:45:04 [INFO]   Copying: 03 - Resources/Bases
+2025-10-03 13:45:04 [INFO]   Copying: 03 - Resources/cover books
+2025-10-03 13:45:05 [INFO] Removing excluded files...
+2025-10-03 13:45:05 [INFO]   Removing: .obsidian/workspace.json
+2025-10-03 13:45:05 [INFO]   Removing: .obsidian/workspace-mobile.json
+2025-10-03 13:45:05 [INFO] Copying specific files...
+2025-10-03 13:45:05 [INFO]   Copying: .obsidian.vimrc
+2025-10-03 13:45:05 [INFO]   Copying: .gitignore
+2025-10-03 13:45:05 [INFO]   Copying: 01 - Projects/01 - Projects.md
+2025-10-03 13:45:05 [INFO]   Copying: 02 - Areas/Personal.md
+2025-10-03 13:45:05 [INFO]   Copying: 02 - Areas/Profesional.md
+2025-10-03 13:45:05 [INFO]   Copying: 02 - Areas/Relaciones.md
+2025-10-03 13:45:05 [INFO]   Copying: 03 - Resources/Bible's Book/Bible's Book.md
+2025-10-03 13:45:05 [INFO]   Copying: 03 - Resources/Books/Books.md
+2025-10-03 13:45:05 [INFO]   Copying: 03 - Resources/Controles/Controles.md
+2025-10-03 13:45:05 [INFO]   Copying: 03 - Resources/Courses/Courses.md
+2025-10-03 13:45:05 [INFO]   Copying: 03 - Resources/Email/Email.md
+2025-10-03 13:45:05 [INFO]   Copying: 03 - Resources/People/People.md
+2025-10-03 13:45:05 [INFO]   Copying: 03 - Resources/Place/Place.md
+2025-10-03 13:45:05 [INFO]   Copying: 03 - Resources/Podcast/Podcast.md
+2025-10-03 13:45:05 [INFO]   Copying: 03 - Resources/Recetas/Recetas.md
+2025-10-03 13:45:05 [INFO]   Copying: 03 - Resources/Supermarket List/Supermarket List.md
+2025-10-03 13:45:05 [INFO]   Copying: 03 - Resources/Videos/Videos.md
+2025-10-03 13:45:05 [INFO]   Copying: 03 - Resources/Vocabulary/Vocabulary.md
+2025-10-03 13:45:05 [INFO]   Copying: 03 - Resources/Web Links/Web Links.md
+2025-10-03 13:45:05 [INFO]   Copying: 04 - Permanent/04 - Permanent.md
+2025-10-03 13:45:05 [INFO]   Copying: 05 - Captura/05 - Captura.md
+2025-10-03 13:45:05 [INFO] Creating folder structure...
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Canvas
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Controles/Compras en super
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Controles/Control de Periodo de Angely
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Controles/Control de Tanque de Gas
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Controles/Control de Vacunas y cuidado de Max
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Controles/Workout
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Draw/Scripts/Downloaded
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Excel
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/html
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/PDF
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Supermarket List/01 - Productos de limpieza
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Supermarket List/02 - Granos, aceite y especias
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Supermarket List/03 - Carnes
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Supermarket List/04 - Frutas y verduras
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Supermarket List/05 - Lácteos y panadería
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Supermarket List/06 - Pastas, salsas y pastelería
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Supermarket List/07 - Otros (Cerca de la caja)
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Supermarket List/08 - No Category
+2025-10-03 13:45:05 [INFO]   Creating: 03 - Resources/Supermarket List/99 - Entrada
+2025-10-03 13:45:05 [INFO]   Creating: 06 - Daily/01 - Diario
+2025-10-03 13:45:05 [INFO]   Creating: 06 - Daily/02 - Semanal
+2025-10-03 13:45:05 [INFO]   Creating: 06 - Daily/03 - Trimestral
+2025-10-03 13:45:05 [INFO]   Creating: 06 - Daily/04 - Mensual
+2025-10-03 13:45:05 [INFO]   Creating: 06 - Daily/05 - Anual
+2025-10-03 13:45:05 [INFO] Creating base files...
+2025-10-03 13:45:05 [INFO]   Creating: 06 - Daily/05 - Anual/{year}.md
+2025-10-03 13:45:05 [INFO] Initializing Git repository...
+2025-10-03 13:45:40 [SUCCESS] =====================================
+2025-10-03 13:45:40 [SUCCESS] Vault created successfully!
+2025-10-03 13:45:40 [SUCCESS] =====================================
+2025-10-03 13:45:40 [INFO] Location: C:\Users\canto\ObsidianVaults\Vault-2026
+2025-10-03 13:45:40 [INFO] Year: 2026
+2025-10-03 13:45:40 [SUCCESS] Process completed.
+2025-10-03 14:26:35 [INFO] Current year detected: 2025
+2025-10-03 14:26:35 [INFO] Target year: 2026
+2025-10-03 14:26:35 [INFO] Source vault: C:\Users\canto\ObsidianVaults\Vault-2025
+2025-10-03 14:26:35 [INFO] Target vault: C:\Users\canto\ObsidianVaults\Vault-2026
+2025-10-03 14:26:35 [INFO] Creating target directory...
+2025-10-03 14:26:35 [INFO] Copying complete folders...
+2025-10-03 14:26:35 [INFO]   Copying: .obsidian
+2025-10-03 14:26:36 [INFO]   Copying: 00 - Template
+2025-10-03 14:26:36 [INFO]   Copying: 03 - Resources/Assets
+2025-10-03 14:26:38 [INFO]   Copying: 03 - Resources/Bases
+2025-10-03 14:26:39 [INFO]   Copying: 03 - Resources/cover books
+2025-10-03 14:26:39 [INFO] Removing excluded files...
+2025-10-03 14:26:39 [INFO]   Removing: .obsidian/workspace.json
+2025-10-03 14:26:39 [INFO]   Removing: .obsidian/workspace-mobile.json
+2025-10-03 14:26:39 [INFO] Copying specific files...
+2025-10-03 14:26:39 [INFO]   Copying: .obsidian.vimrc
+2025-10-03 14:26:39 [INFO]   Copying: .gitignore
+2025-10-03 14:26:39 [INFO]   Copying: .nomedia
+2025-10-03 14:26:39 [INFO]   Copying: 01 - Projects/01 - Projects.md
+2025-10-03 14:26:39 [INFO]   Copying: 02 - Areas/Personal.md
+2025-10-03 14:26:39 [INFO]   Copying: 02 - Areas/Profesional.md
+2025-10-03 14:26:39 [INFO]   Copying: 02 - Areas/Relaciones.md
+2025-10-03 14:26:39 [INFO]   Copying: 03 - Resources/Bible's Book/Bible's Book.md
+2025-10-03 14:26:39 [INFO]   Copying: 03 - Resources/Books/Books.md
+2025-10-03 14:26:39 [INFO]   Copying: 03 - Resources/Controles/Controles.md
+2025-10-03 14:26:39 [INFO]   Copying: 03 - Resources/Courses/Courses.md
+2025-10-03 14:26:39 [INFO]   Copying: 03 - Resources/Email/Email.md
+2025-10-03 14:26:39 [INFO]   Copying: 03 - Resources/People/People.md
+2025-10-03 14:26:39 [INFO]   Copying: 03 - Resources/Place/Place.md
+2025-10-03 14:26:39 [INFO]   Copying: 03 - Resources/Podcast/Podcast.md
+2025-10-03 14:26:39 [INFO]   Copying: 03 - Resources/Recetas/Recetas.md
+2025-10-03 14:26:39 [INFO]   Copying: 03 - Resources/Supermarket List/Supermarket List.md
+2025-10-03 14:26:39 [INFO]   Copying: 03 - Resources/Videos/Videos.md
+2025-10-03 14:26:39 [INFO]   Copying: 03 - Resources/Vocabulary/Vocabulary.md
+2025-10-03 14:26:39 [INFO]   Copying: 03 - Resources/Web Links/Web Links.md
+2025-10-03 14:26:39 [INFO]   Copying: 04 - Permanent/04 - Permanent.md
+2025-10-03 14:26:39 [INFO]   Copying: 05 - Captura/05 - Captura.md
+2025-10-03 14:26:39 [INFO] Creating folder structure...
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Canvas
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Controles/Compras en super
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Controles/Control de Periodo de Angely
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Controles/Control de Tanque de Gas
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Controles/Control de Vacunas y cuidado de Max
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Controles/Workout
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Draw/Scripts/Downloaded
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Excel
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/html
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/PDF
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Supermarket List/01 - Productos de limpieza
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Supermarket List/02 - Granos, aceite y especias
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Supermarket List/03 - Carnes
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Supermarket List/04 - Frutas y verduras
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Supermarket List/05 - Lácteos y panadería
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Supermarket List/06 - Pastas, salsas y pastelería
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Supermarket List/07 - Otros (Cerca de la caja)
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Supermarket List/08 - No Category
+2025-10-03 14:26:39 [INFO]   Creating: 03 - Resources/Supermarket List/99 - Entrada
+2025-10-03 14:26:39 [INFO]   Creating: 06 - Daily/01 - Diario
+2025-10-03 14:26:39 [INFO]   Creating: 06 - Daily/02 - Semanal
+2025-10-03 14:26:39 [INFO]   Creating: 06 - Daily/03 - Trimestral
+2025-10-03 14:26:39 [INFO]   Creating: 06 - Daily/04 - Mensual
+2025-10-03 14:26:39 [INFO]   Creating: 06 - Daily/05 - Anual
+2025-10-03 14:26:39 [INFO] Creating base files...
+2025-10-03 14:26:39 [INFO]   Creating: 06 - Daily/05 - Anual/2026.md
+2025-10-03 14:26:39 [INFO] Initializing Git repository...
+2025-10-03 14:26:57 [SUCCESS] =====================================
+2025-10-03 14:26:57 [SUCCESS] Vault created successfully!
+2025-10-03 14:26:57 [SUCCESS] =====================================
+2025-10-03 14:26:57 [INFO] Location: C:\Users\canto\ObsidianVaults\Vault-2026
+2025-10-03 14:26:57 [INFO] Year: 2026
+2025-10-03 14:26:57 [SUCCESS] Process completed.
